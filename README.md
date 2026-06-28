@@ -23,8 +23,6 @@ This project may use the following technologies:
 - CSS
 - JavaScript
 
-> Update this section if your project uses Canvas, React, or any other library/framework.
-
 ## 📂 Project Structure
 
 ```bash
