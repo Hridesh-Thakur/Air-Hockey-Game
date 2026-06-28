@@ -517,8 +517,7 @@ function goalScored(who) {
 				: "0 0 30px #ff2d55, 0 0 60px rgba(255,45,85,0.4)";
 			goWinsEl.textContent = playerWon
 				? "GAME · SET · MATCH"
-				: "BETTER LUCK NEXT TIME"
-				: "Follow Hridesh Thakur";
+				: "BETTER LUCK NEXT TIME";
 			document.getElementById("go-face").textContent = playerWon ? "😄" : "😢";
 			goFinal.textContent = `${score.p} – ${score.cpu}`;
 			gameoverEl.classList.remove("lose-state");
