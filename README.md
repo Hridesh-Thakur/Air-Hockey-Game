@@ -43,12 +43,12 @@ git clone https://github.com/Hridesh-Thakur/Air-Hockey-Game.git
 
 ### 2. Open the project
 
-If this is a frontend browser game, simply open `index.html` in your browser.
+Simply open `index.html` in your browser.
 
 ##  How to Play
 
 - Start the game in your browser
-- Control the paddle using mouse or keyboard, depending on your implementation
+- Control the paddle using the mouse or keyboard, depending on your implementation
 - Hit the puck toward the opponent’s goal
 - Defend your side and try to score maximum points
 - The player with the higher score wins
