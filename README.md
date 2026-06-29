@@ -32,7 +32,6 @@ Air-Hockey-Game/
 └── style.css
 ```
 
-> Replace this with your actual file structure if needed.
 
 ##  Getting Started
 
