@@ -30,7 +30,6 @@ Air-Hockey-Game/
 ├── index.html
 ├── script.js
 └── style.css
- 
 ```
 
 > Replace this with your actual file structure if needed.
