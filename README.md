@@ -43,7 +43,7 @@ git clone https://github.com/Hridesh-Thakur/Air-Hockey-Game.git
 
 ### 2. Open the project
 
-Simply open `index.html` in your browser.
+Run the `index.html` file in your browser.
 
 ##  How to Play
 
