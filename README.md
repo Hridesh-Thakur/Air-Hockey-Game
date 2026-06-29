@@ -28,9 +28,9 @@ This project may use the following technologies:
 ```bash
 Air-Hockey-Game/
 ├── index.html
-├── style.css
 ├── script.js
-└── assets/
+└── style.css
+ 
 ```
 
 > Replace this with your actual file structure if needed.
