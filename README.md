@@ -6,7 +6,7 @@ A fast-paced and interactive **Air Hockey Game** built to deliver a fun browser-
 
 This project is a simple yet engaging air hockey game where players compete to score goals by hitting the puck into the opponent’s side. It focuses on game mechanics, collision handling, score tracking, and responsive interaction.
 
-##  Features
+##  Features  
 
 - Interactive air hockey gameplay
 - Smooth paddle and puck movement
